@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 806.9 435.1" style="enable-background:new 0 0 806.9 435.1;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#E1EEC0;}
+	.st1{fill:#95C11F;}
+	.st2{fill:none;stroke:#95C11F;stroke-width:0.5;stroke-miterlimit:10;}
+	.st3{fill:#1E1E1C;}
+	.st4{font-family:"Roboto", sans-serif}
+	.st5{font-size:17px;}
+	.st6{font-family:"Roboto", sans-serif}
+	.st7{font-family:"Roboto", sans-serif}
+</style>
+<g id="lineas">
+	<rect x="384.9" y="66.2" class="st0" width="31.4" height="208.3"/>
+	<circle class="st1" cx="400.6" cy="234.2" r="5"/>
+	<circle class="st1" cx="283" cy="300.5" r="4.3"/>
+	<circle class="st1" cx="521.7" cy="300.5" r="4.3"/>
+	<line class="st2" x1="400.6" y1="279.3" x2="400.6" y2="263.5"/>
+	<line class="st2" x1="400.6" y1="238.7" x2="400.6" y2="223"/>
+	<circle class="st1" cx="400.6" cy="186" r="5"/>
+	<line class="st2" x1="400.6" y1="188.9" x2="400.6" y2="173.1"/>
+	<circle class="st1" cx="400.6" cy="137.1" r="5"/>
+	<line class="st2" x1="400.6" y1="140" x2="400.6" y2="124.2"/>
+	<circle class="st1" cx="400.6" cy="84.4" r="5"/>
+	<line class="st2" x1="400.6" y1="87.2" x2="400.6" y2="71.5"/>
+	<polyline class="st2" points="283,298.5 283,279.2 521.7,279.2 521.7,296.1 	"/>
+</g>
+<g id="Capa_1">
+	<text transform="matrix(1 0 0 1 343.05 257.46)" class="st3 st4 st5">Dos Subespecies</text>
+	<text transform="matrix(1 0 0 1 181.62 330.76)" class="st3 st6 st5">Symphalangus</text>
+	<text transform="matrix(1 0 0 1 295.17 330.76)" class="st3 st6 st5">syndactylus</text>
+	<text transform="matrix(1 0 0 1 238.4 354.39)" class="st3 st6 st5">syndactylus</text>
+	<text transform="matrix(1 0 0 1 209.92 380.64)" class="st3 st4 st5">(habita en Sumatra)</text>
+	<text transform="matrix(1 0 0 1 420.3 330.76)" class="st3 st6 st5">Symphalangus</text>
+	<text transform="matrix(1 0 0 1 533.85 330.76)" class="st3 st6 st5">syndactylus</text>
+	<text transform="matrix(1 0 0 1 479.27 354.39)" class="st3 st6 st5">continentis</text>
+	<text transform="matrix(1 0 0 1 452.89 380.64)" class="st3 st4 st5">(habita en Malasia)</text>
+	<text transform="matrix(1 0 0 1 257.18 214.13)" class="st3 st4 st5">Especie: Symphalangus syndactylus</text>
+	<text transform="matrix(1 0 0 1 319.3 163.11)" class="st3 st4 st5">Género:</text>
+	<text transform="matrix(1 0 0 1 382.03 163.11)" class="st3 st6 st5">Symphalangus</text>
+	<text transform="matrix(1 0 0 1 323.2783 111.91)" class="st3 st4 st5">Familia Hylobatidae</text>
+	<text transform="matrix(1 0 0 1 304.22 64.03)" class="st3 st4 st5">Super familia:</text>
+	<text transform="matrix(1 0 0 1 408.56 64.03)" class="st3 st7 st5">Hominoidea</text>
+</g>
+</svg>
